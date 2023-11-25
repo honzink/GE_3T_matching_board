@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "aaa_MyLib")(type "KiCad")(uri "/home/ge.polymtl.ca/p119904/Work/KiCad/7.0/footprints/aaa_MyLib.pretty")(options "")(descr ""))
+)
