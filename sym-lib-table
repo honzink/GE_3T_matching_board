@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "aaa_MyLib")(type "KiCad")(uri "/Users/jan/Work/KiCad/libraries/user/symbols/aaa_MyLib.kicad_sym")(options "")(descr ""))
+)
